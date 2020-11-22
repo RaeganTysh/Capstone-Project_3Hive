@@ -1,13 +1,4 @@
-# Three_Hive_Consulting
-A private project has been set up on GitHub to allow a collective development of the project using this platform.
-Most of the coding will be done in Microsoft Visual Code and uploaded to GitHub regularly.
-GitHub Project name The project’s name is Three Hive Consulting and has been set up as private between the 4 members of the group.
-The web URL for the project is: https://github.com/dacadiou27/Three_Hive_Consulting.gitDescription 
-All the files present in this project are to support a EvaluCreator web application for the evaluation plan phase that will be linked to the Eval Academy webpage (https://www.evalacademy.com/)
-Table of Contents The project is divided into 4 folders and a Readme file (REAME.md). 
-The folders are: 
-css: stores the shared style files for a different page 
-html: stores the html page for every website page 
-img: stores logos, pictures, potential movies use in the webpages 
-js: stores the JavaScript called from the html pages Installation If you desire to clone the project on your local machine proceed with the following steps. 
-Open a Visual Studio Code and enter the following command in a PowerShell:  git clone https://github.com/dacadiou27/Three_Hive_Consulting.git
+# Capstone Project 3Hive
+This was a industry Capstone Project that was developed in conjuction with my colleauges as part of a the Software | Full-Stack Development offered through Bow Valley College
+
+Develop and integrate the current static “EvaluCreator” tool into a dynamic and interactive web application that allows and guides multiple users to create and customize evaluation plans for various projects. The EvaluCreator target group is the novice evaluator. The platform will be intuitive and easy to navigate which incorporates interactive features that will provide hints, tips, and suggestions to guide the novice user seamlessly. The user(s) will be able to login,fill out, update, and view the most current data. The users will have access to a created team space, with invite capability for collaborative purposes. The final evaluation plan will be exportable in pdf format. The platform will incorporate a database design that will support single as well as multiple user(s) to maximize team and collaboration efforts.The programming code utilised to accomplish this project was HTML, CSS, JavaScript, EJS, Node.js and SQL. 
